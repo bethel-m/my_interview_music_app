@@ -2,20 +2,18 @@
 this is a music app built with jetpack compose, for streaming music online
 
 <p style="text-align: center;">
-  <img src="screenshots/1.jpeg" alt="Screenshot 1" width="200"  >
-  <img src="screenshots/2.jpeg" alt="Screenshot 2" width="200"  >
+  <img src="screenshots/1.jpeg" alt="Screenshot 1" width="200"   style="margin-right: 10px;">
+  <img src="screenshots/2.jpeg" alt="Screenshot 2" width="200"   style="margin-right: 10px;">
+  <img src="screenshots/7.jpeg" alt="Screenshot 7" width="200"   style="margin-right: 10px;">
   <img src="screenshots/3.jpeg" alt="Screenshot 3" width="200"  >
 </p>
 
 <p style="text-align: center;">
-  <img src="screenshots/4.jpeg" alt="Screenshot 4" width="200"  >
-  <img src="screenshots/5.jpeg" alt="Screenshot 5" width="200"  >
+  <img src="screenshots/4.jpeg" alt="Screenshot 4" width="200"   style="margin-right: 10px;">
+  <img src="screenshots/5.jpeg" alt="Screenshot 5" width="200"   style="margin-right: 10px;">
   <img src="screenshots/6.jpeg" alt="Screenshot 6" width="200"  >
 </p>
 
-<p style="text-align: center;">
-  <img src="screenshots/7.jpeg" alt="Screenshot 7" width="200"  >
-</p>
 
 ### Features
 - stream music online
