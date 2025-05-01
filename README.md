@@ -1,12 +1,7 @@
 # MY MUSIC APP
 this is a music app built with jetpack compose, for streaming music online
-![Homepage Screenshot](screenshots/1.jpeg)
-![Homepage Screenshot](screenshots/2.jpeg)
-![Homepage Screenshot](screenshots/3.jpeg)
-![Homepage Screenshot](screenshots/4.jpeg)
-![Homepage Screenshot](screenshots/5.jpeg)
-![Homepage Screenshot](screenshots/6.jpeg)
-![Homepage Screenshot](screenshots/7.jpeg)
+![Homepage Screenshot](screenshots/1.jpeg) ![Homepage Screenshot](screenshots/2.jpeg) ![Homepage Screenshot](screenshots/3.jpeg)
+![Homepage Screenshot](screenshots/4.jpeg) ![Homepage Screenshot](screenshots/5.jpeg) ![Homepage Screenshot](screenshots/6.jpeg) ![Homepage Screenshot](screenshots/7.jpeg)
 
 ### Features
 - stream music online
@@ -19,8 +14,8 @@ this is a music app built with jetpack compose, for streaming music online
 
 ### how to run
 - clone the repo
-- register and obtain an API_KEY from jamendo : https://developer.jamendo.com/v3.0
-- in the Api_contants.kt file, replace the value of the client_id with the api key
+- register and obtain an API_KEY from [jamendo]( https://developer.jamendo.com/v3.0)
+- in the ApiContants.kt file, replace the value of the client_id with the api key
 - run the app
 
 ### in-app implementations
