@@ -1,0 +1,19 @@
+<resources>
+    <string name="error_loading">an error occurred please check your connection and try again</string>
+    <string name="search_text">search</string>
+    <string name="random">Random</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="featured">Featured</string>
+    <string name="playing_music">playing music</string>
+    <string name="app_name">interview_music</string>
+    <string name="my_music_app">My music App</string>
+    <string name="home_description">The home destination on the bottom nav bar</string>
+    <string name="search_description">The search destination on the bottom nav bar</string>
+    <string name="favourites_description">The favourites destination on the bottom nav bar</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="favourites">favourites</string>
+    <string name="explore_music">explore music</string>
+    <string name="search_placeholder">"enter word to search songs "</string>
+</resources>
