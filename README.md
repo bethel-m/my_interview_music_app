@@ -1,20 +1,20 @@
 # MY MUSIC APP
 this is a music app built with jetpack compose, for streaming music online
 
-<p align="center">
-  <img src="screenshots/1.jpeg" alt="Screenshot 1" width="200" height="100">
-  <img src="screenshots/2.jpeg" alt="Screenshot 2" width="200" height="100">
-  <img src="screenshots/3.jpeg" alt="Screenshot 3" width="200" height="100">
+<p style="text-align: center;">
+  <img src="screenshots/1.jpeg" alt="Screenshot 1" width="200"  >
+  <img src="screenshots/2.jpeg" alt="Screenshot 2" width="200"  >
+  <img src="screenshots/3.jpeg" alt="Screenshot 3" width="200"  >
 </p>
 
-<p align="center">
-  <img src="screenshots/4.jpeg" alt="Screenshot 4" width="200" height="100">
-  <img src="screenshots/5.jpeg" alt="Screenshot 5" width="200" height="100">
-  <img src="screenshots/6.jpeg" alt="Screenshot 6" width="200" height="100">
+<p style="text-align: center;">
+  <img src="screenshots/4.jpeg" alt="Screenshot 4" width="200"  >
+  <img src="screenshots/5.jpeg" alt="Screenshot 5" width="200"  >
+  <img src="screenshots/6.jpeg" alt="Screenshot 6" width="200"  >
 </p>
 
-<p align="center">
-  <img src="screenshots/7.jpeg" alt="Screenshot 7" width="200" height="100">
+<p style="text-align: center;">
+  <img src="screenshots/7.jpeg" alt="Screenshot 7" width="200"  >
 </p>
 
 ### Features
